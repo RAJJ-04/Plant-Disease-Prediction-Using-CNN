@@ -6,5 +6,7 @@ This project focuses on developing a deep learning model utilizing Convolutional
 ✨ Features
 
 🖼️ Image Classification: Classifies images of plant leaves into healthy or various disease categories.
+
 🖥️ User-Friendly Interface: Provides an intuitive interface for users to upload leaf images and receive predictions.
+
 🎯 High Accuracy: Achieves high accuracy in disease prediction through the use of advanced CNN architectures.
